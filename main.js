@@ -1,6 +1,6 @@
 canvas = document.getElementById('myCanvas'); 
 ctx = canvas.getContext("2d"); 
-background_image = ""; 
+background_image = " https://i.postimg.cc/bv5d35nK/racing.jpg"; 
 car1_image = "14488.jpg";
 car1_width = 100; 
 car1_height = 50; 
